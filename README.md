@@ -1,4 +1,4 @@
-# Graphical-user-interface
+# Graphical-user-interface(Java Swing)
 Building a Java Swing application that allows a users to specify the color and position of a circle on a canvas, then draw it.
 
 Application's main area takes by a canvas where it will eventually draw the circle. Uses two JSliders, one horizontal under the canvas,
