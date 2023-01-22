@@ -12,3 +12,5 @@ from the single-selection component, and drawS a small circle at the specified p
 As soon as the circle is drawn, the button's label should changeS to "Hide." When the users clicks the button again, the circle is hidden (drawn over 
 with background color -- you can repaint the entire canvas). When that happens, the button's label changes back to "Show," and the process can be 
 repeated.
+
+<img width="1097" alt="GUI picture" src="https://github.com/umangptl/Graphical-user-interface/blob/main/GUI.png">
