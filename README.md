@@ -13,4 +13,4 @@ As soon as the circle is drawn, the button's label should changeS to "Hide." Whe
 with background color -- you can repaint the entire canvas). When that happens, the button's label changes back to "Show," and the process can be 
 repeated.
 
-<img width="1097" alt="GUI picture" src="https://github.com/umangptl/Graphical-user-interface/blob/main/GUI.png">
+<img width="697" alt="GUI picture" src="https://github.com/umangptl/Graphical-user-interface/blob/main/GUI.png">
