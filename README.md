@@ -2,7 +2,7 @@
 This Java Swing application allows users to interactively specify the color and position of a circle on a canvas and then draw it.
 
 ## User Interface Components
-The main area of the application is occupied by a canvas where the circle will be drawn. The following components are provided to facilitate the circle specification:
+The main area of the application is occupied by a canvas where the circle will be drawn. The following components are provided to facilitate the circle specification.
 
 - **Horizontal Slider:** A JSlider positioned under the canvas, enabling users to select the horizontal position of the circle.
 - **Vertical Slider:** A JSlider placed on the left side of the canvas, allowing users to specify the vertical position of the circle.
